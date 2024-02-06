@@ -1,0 +1,33 @@
+{
+  "name": "amazing-link",
+  "author": {
+    "name": "roy",
+    "email": "jjh120845@gmail.com",
+    "url": "https://blog.linkstarted.top"
+  },
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --open",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@tailwindcss/typography": "^0.5.10",
+    "nuxt": "^3.10.0",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^0.8.1",
+    "@nuxt/image": "^1.3.0",
+    "@nuxtjs/tailwindcss": "^6.11.3",
+    "nuxt-icon": "^0.6.8",
+    "nuxt-icon-tw": "^0.1.3",
+    "nuxt-lodash": "^2.5.3",
+    "sass": "^1.70.0"
+  }
+}
