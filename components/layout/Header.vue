@@ -7,6 +7,12 @@
           to="/about">
           about
         </NuxtLink>
+
+        <NuxtLink
+          class="hover:text-sky-500"
+          to="/list">
+          list
+        </NuxtLink>
       </li>
     </ul>
   </header>

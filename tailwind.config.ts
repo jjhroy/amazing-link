@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-        around: '0 2px 16px 0 rgba(0, 0, 0, 0.06);',
+        around: '0 2px 16px 0 rgba(0, 0, 0, 0.1);',
       },
       screens: {
         mobile: '640px',
